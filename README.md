@@ -24,7 +24,7 @@
 
 ### Ответ
 
-![Deployment]()
+![Deployment](https://github.com/ALEMOLOKOV/14.4_K8S_Aeksandr_Molokov/blob/f4620ef785ef79600b1cdd0be3d6dc313769fad2/deployment-1.19.yaml)
 
 #### ВМ YandexCloud кластер развернут с помощью kubespray 
 ![yandexcloude vm](https://github.com/ALEMOLOKOV/14.4_K8S_Aeksandr_Molokov/assets/109212419/2e9a9f30-7a63-4ac0-8052-9f1ee0eec6a7)
