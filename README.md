@@ -48,8 +48,11 @@
 #### Откат обновления
 ![откат обновления](https://github.com/ALEMOLOKOV/14.4_K8S_Aeksandr_Molokov/assets/109212419/3878c99b-7339-4e97-ac9d-d430e542d2a6)
 
-#### Статус посде отката
+#### Статус после отката
 ![статус после отката](https://github.com/ALEMOLOKOV/14.4_K8S_Aeksandr_Molokov/assets/109212419/c74dd86c-4a59-4a2d-8511-27f1e09e2cd6)
+
+![get deploy 1 20](https://github.com/ALEMOLOKOV/14.4_K8S_Aeksandr_Molokov/assets/109212419/fcc657fa-d21b-4aca-9c58-50541b4e40d6)
+
 
 
 
